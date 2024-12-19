@@ -1,2 +1,3 @@
 # TrollStore-Installer
-TrollStore installer 
+TrollStore installer working on all ios version
+mande by neXus
